@@ -12,3 +12,5 @@ Tested and confirmed that C++ was fully working with my unreal engine game
 Added necessary plugins to use metahumans
 Created a test animation to check if markerless animation works
 Succeeded in getting motion capture animation to work
+Create the left hook animation
+Created the right jab animation
