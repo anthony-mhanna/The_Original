@@ -14,3 +14,4 @@ Created a test animation to check if markerless animation works
 Succeeded in getting motion capture animation to work
 Create the left hook animation
 Created the right jab animation
+Failed generating sufficient and good looking animations
