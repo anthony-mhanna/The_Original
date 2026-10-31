@@ -15,3 +15,5 @@ Succeeded in getting motion capture animation to work
 Create the left hook animation
 Created the right jab animation
 Failed generating sufficient and good looking animations
+Added new realistic locomotion
+Added a new NPc with a hit box that reacts to getting hit
