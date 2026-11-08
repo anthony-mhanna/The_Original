@@ -19,3 +19,5 @@ Added new realistic locomotion
 Added a new NPc with a hit box that reacts to getting hit
 Added attack features for the NPC
 Added hit reactions for the main character
+Integrated APS system for NPCs
+Added block mechanism for player to block attacks
